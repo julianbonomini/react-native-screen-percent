@@ -1,6 +1,6 @@
 {
   "name": "react-native-screen-percent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native package to obtain, in pixels, a percentage of the screen",
   "main": "index.js",
   "scripts": {
