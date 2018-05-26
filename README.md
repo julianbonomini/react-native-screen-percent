@@ -8,16 +8,19 @@ React native package to obtain, in pixels, a percentage of the screen
 ## Usage
 
 Import
-
-    import { wp, hp } from 'react-native-screen-percent'
+```javascript
+import { wp, hp } from 'react-native-screen-percent'
+```
 
 And use it this way:
 
-    const styles = StyleSheet.create({
-      button: {
-        width: wp(80),
-        height: hp(5)
-      }
-    })
+```javascript
+const styles = StyleSheet.create({
+  button: {
+    width: wp(80),
+    height: hp(5)
+  }
+})
+```
 
 Enjoy!
