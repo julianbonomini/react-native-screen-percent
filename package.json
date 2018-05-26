@@ -1,0 +1,28 @@
+{
+  "name": "react-native-screen-percent",
+  "version": "1.0.0",
+  "description": "React native package to obtain, in pixels, a percentage of the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbonomini/react-native-screen-percent.git"
+  },
+  "keywords": [
+    "React-Native",
+    "Dimensions",
+    "Screen",
+    "Percent"
+  ],
+  "author": "Julian Bonomini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianbonomini/react-native-screen-percent/issues"
+  },
+  "homepage": "https://github.com/julianbonomini/react-native-screen-percent#readme"
+}
