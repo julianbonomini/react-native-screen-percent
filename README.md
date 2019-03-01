@@ -4,6 +4,8 @@ React native package to obtain, in pixels, a percentage of the screen
 ## Instalation
 
     npm i react-native-screen-percent
+    
+### No Dependencies!!!!
 
 ## Usage
 
